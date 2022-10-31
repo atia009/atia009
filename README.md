@@ -8,7 +8,7 @@ I'm looking to expand my knowledge in `Web Development`. I'm experienced in `Fro
 - 🔭 I’m currently working on mastering `React`.
 - 🌱 I’m learning new tech related to the web.
 - 💬 Ask me anything!
-- ⚡ Fun fact: I currently live with a golden husky. 
+- ⚡ Fun fact: I'm living with a chow chow husky mix. 
 
 
 ### 💻 Languages
